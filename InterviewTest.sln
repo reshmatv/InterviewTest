@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTest", "InterviewTest\InterviewTest.csproj", "{FDE60A73-0EAF-4294-AA78-B9636646C3DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{5D654C54-14AC-4435-82D3-1DF1E2ACCAD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE60A73-0EAF-4294-AA78-B9636646C3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE60A73-0EAF-4294-AA78-B9636646C3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE60A73-0EAF-4294-AA78-B9636646C3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE60A73-0EAF-4294-AA78-B9636646C3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D654C54-14AC-4435-82D3-1DF1E2ACCAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D654C54-14AC-4435-82D3-1DF1E2ACCAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D654C54-14AC-4435-82D3-1DF1E2ACCAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D654C54-14AC-4435-82D3-1DF1E2ACCAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {310178A1-88CD-4D08-9AF1-CE8DBD439C14}
+	EndGlobalSection
+EndGlobal
